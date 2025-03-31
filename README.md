@@ -65,9 +65,6 @@
   <a href="https://wa.me/5534996465595">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://github.com/marcelojunior">
-    <img src="https://img.shields.io/github/followers/marcelojunior?style=social" alt="GitHub Followers"/>
-  </a>
 </p>
 
 ---
